@@ -1,0 +1,59 @@
+body {
+    background-color: #202124; /* Dark gray background */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    color: #ffffff; /* White color for headings */
+    font-size: 400%;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    padding: 10px;
+    width: 70%;
+    background-color: #292929; /* Darker gray background for text input */
+    color: #ffffff; /* White text color for text input */
+    border: 1px solid #555; /* Slightly lighter border */
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #1a73e8; /* Google Blue */
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0d47a1; /* Darker shade of Google Blue on hover */
+}
+
+#noAnchor {
+    text-decoration: none;
+    color: inherit;
+}
+
+.mainDiv li {
+    text-align: left;
+}
+
+.mainDiv {
+    margin: 5%;
+    padding: 5% 5% 5% 5%;
+
+    text-align: center;
+    width: 80%;
+    color: #ffffff; /* White text color */
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link
+            rel="stylesheet"
+            href="{{ url_for('static', filename='styleIndex.css') }}"
+        />
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Wyszukiwarka studenta</title>
+    </head>
+    <body>
+        <div class="mainDiv">
+            <h1><a id="noAnchor" href="/">Bing be like</a></h1>
+            <form action="/search" method="get">
+                <div class="inputDiv">
+                    <input type="text" name="q" value="{{ input_string }}" />
+                    <button type="submit">Submit</button>
+                    <p>Specify how many documents you want to see:</p>
+                    <input type="text" name="outputSize" style="width: 10%" value="{{ outputSize }}" />
+            
+                    <p>Use SVD: <input type="checkbox" name="use_svd" {% if use_svd %} checked {% endif %}></p>
+                </div>
+            </form>
+            <form action="/remakeDatabase" method="get">
+                <button type="submit">Remake Database</button>
+            </form>
+        </div>
+    </body>
+</html>
