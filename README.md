@@ -7,4 +7,4 @@ Jeżeli widzisz jakieś błędy daj nam znać (albo po prostu stwórz nowe Issue
 
 Jeśli byliśmy w stanie pomóc (albo podoba ci się nasza praca), daj nam gwiazdke 😎
 
-Autorzy: Eryk Olejarz, Paweł Prus, Piotr Rusak, Ernest Szlamczyk
+Autorzy: Ernest Szlamczyk, Eryk Olejarz
