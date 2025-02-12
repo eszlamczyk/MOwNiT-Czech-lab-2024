@@ -10,4 +10,4 @@ Jeśli byliśmy w stanie pomóc (albo podoba ci się nasza praca), daj nam gwiaz
 
 Autorzy: Ernest Szlamczyk, Eryk Olejarz
 
-TODO: 8, 9, 10, 11, 13
+TODO: 9, 10, 11, 13
