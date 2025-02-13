@@ -8,6 +8,4 @@ Jeżeli widzisz jakieś błędy daj nam znać (albo po prostu stwórz nowe Issue
 
 Jeśli byliśmy w stanie pomóc (albo podoba ci się nasza praca), daj nam gwiazdke 😎
 
-Autorzy: Ernest Szlamczyk, Eryk Olejarz
-
-TODO: 9, 10, 11
+Autorzy: Ernest Szlamczyk, Eryk Olejarz, Paweł Prus
